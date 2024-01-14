@@ -39,14 +39,20 @@
 
 **Bộ nghiệm 1**
 
-![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/b6a05121-bd6a-449b-95f5-e4bec3553be1)
-
 
 ![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/9890b811-d8ca-4eff-b404-1b0675d08bb9)
 
 **Bộ nghiệm 2**
 
 ![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/beb47364-0e61-4a2c-bc91-d689014748e9)
+
+## 5. Work Space
+
+![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/1bea8b07-dbc4-46e1-a26f-618282cc983c)
+
+## 6. GUI
+
+![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/b6f7c31d-484f-46f3-bfac-036436d11263)
 
 
 
