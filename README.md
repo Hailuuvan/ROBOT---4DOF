@@ -1,6 +1,7 @@
 # ROBOT---4DOF
 ## Thông số robot
-![Đặt trục](https://imgur.com/a/F1Ep8dG.jpg)
+![Ảnh Mô tả](https://i.imgur.com/a/F1Ep8dG.jpg)
+
 
 ## DH Table
 
