@@ -1,4 +1,5 @@
-![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/ecc9d9a5-4ab7-4126-8c89-7bd048800a05)# ROBOT---4DOF
+
+# ROBOT---4DOF
 ## 1. Thông số robot
 ![THÔNG SỐ](https://i.imgur.com/GGJHiP2.png)
 ## 2. Đặt trục 
@@ -37,6 +38,9 @@
 ![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/efd8533d-0141-4e2c-9e51-25517b3f23b6)
 
 **Bộ nghiệm 1**
+
+![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/b6a05121-bd6a-449b-95f5-e4bec3553be1)
+
 
 ![image](https://github.com/Hailuuvan/ROBOT---4DOF/assets/108060328/9890b811-d8ca-4eff-b404-1b0675d08bb9)
 
