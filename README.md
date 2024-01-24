@@ -14,12 +14,18 @@
 | 5 |  L4 | 0 | 0 | 0 |
 
 ## 4. Forward Kinematics
-\[{}_{EE}^{0}P=\left[ \begin{matrix}
-   {{L}_{1}}-{{L}_{3}}{{c}_{1}}({{s}_{2}}{{s}_{3}}-{{c}_{2}}{{c}_{3}})+{{L}_{2}}{{c}_{1}}{{c}_{2}}+{{L}_{4}}{{c}_{234}}{{c}_{1}}  \\
-   {{s}_{1}}({{L}_{3}}{{c}_{23}}+{{L}_{2}}{{c}_{2}})+{{L}_{4}}{{c}_{234}}{{s}_{1}}  \\
-   {{d}_{1}}-{{L}_{3}}{{s}_{23}}-{{L}_{2}}{{s}_{2}}-{{L}_{4}}{{s}_{234}}  \\
-   1  \\
-\end{matrix} \right]\]
+## Phương trình toán
+
+Phương trình bậc hai có dạng:
+
+\[ ax^2 + bx + c = 0 \]
+
+Với các hệ số \(a\), \(b\), và \(c\) là các số thực.
+
+Giải phương trình ta có:
+
+\[ x = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}} \]
+
 
 ![FK](https://i.imgur.com/yhMA6QW.png)
 
