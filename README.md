@@ -16,17 +16,6 @@
 ## 4. Forward Kinematics
 ## Phương trình toán
 
-Phương trình bậc hai có dạng:
-
-\[ ax^2 + bx + c = 0 \]
-
-Với các hệ số \(a\), \(b\), và \(c\) là các số thực.
-
-Giải phương trình ta có:
-
-\[ x = \frac{{-b \pm \sqrt{{b^2 - 4ac}}}}{{2a}} \]
-
-
 ![FK](https://i.imgur.com/yhMA6QW.png)
 
 ## 5. Inverse Kinematics
